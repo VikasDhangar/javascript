@@ -6,6 +6,7 @@ console.log(typeof StN)
 console.log(typeof voterId);
 
 
+
 let NtB = 65
 console.log(typeof NtB);
 
